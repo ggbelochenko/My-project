@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83b5d8dd-83fb-4e06-a3a4-1cebba0f93eb" name="Изменения" comment="" />
+    <list default="true" id="83b5d8dd-83fb-4e06-a3a4-1cebba0f93eb" name="Изменения" comment="Изменения" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,5 +48,9 @@
       <updated>1770257021193</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Изменения" />
+    <option name="LAST_COMMIT_MESSAGE" value="Изменения" />
   </component>
 </project>
